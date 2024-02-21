@@ -38,6 +38,10 @@
     <string gender="unknown" name="catalyst_dev_menu_header">Меню розробника React Native «(%1$s)»</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">Поточний показ «%1$s»</string>
     <string gender="unknown" name="combobox_description">Комбінований список</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Посилання скопійовано в буфер обміну"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Копіювати посилання"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Відкрити у веб-переглядачі"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Надіслати посилання"</string>
     <string gender="unknown" name="header_description">Заголовок</string>
     <string gender="unknown" name="image_description">Зображення</string>
     <string gender="unknown" name="imagebutton_description">Кнопка, зображення</string>

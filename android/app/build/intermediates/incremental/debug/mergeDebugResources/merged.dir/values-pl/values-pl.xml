@@ -37,6 +37,10 @@
     <string gender="unknown" name="catalyst_dev_menu_header">Menu dewelopera React Native (%1$s)</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">Wyświetlanie: %1$s</string>
     <string gender="unknown" name="combobox_description">Pole kombi</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link skopiowany do schowka"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopiuj link"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Otwórz w przeglądarce"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Udostępnij link"</string>
     <string gender="unknown" name="header_description">Nagłówek</string>
     <string gender="unknown" name="image_description">Obraz</string>
     <string gender="unknown" name="imagebutton_description">Przycisk, obraz</string>

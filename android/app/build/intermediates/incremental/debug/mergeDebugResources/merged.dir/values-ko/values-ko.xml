@@ -38,6 +38,10 @@
     <string gender="unknown" name="catalyst_dev_menu_header">React Native 개발자 메뉴 (%1$s)</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">%1$s 실행 중</string>
     <string gender="unknown" name="combobox_description">콤보 상자</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"클립보드에 링크 복사됨"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"링크 복사"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"브라우저에서 열기"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"링크 공유"</string>
     <string gender="unknown" name="header_description">제목</string>
     <string gender="unknown" name="image_description">이미지</string>
     <string gender="unknown" name="imagebutton_description">버튼, 이미지</string>

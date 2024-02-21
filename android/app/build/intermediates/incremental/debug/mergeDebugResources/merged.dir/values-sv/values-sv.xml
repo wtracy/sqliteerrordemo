@@ -37,6 +37,10 @@
     <string msgid="59049573811482460" name="call_notification_screening_text">"Ett inkommande samtal filtreras"</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">Kör %1$s</string>
     <string gender="unknown" name="combobox_description">Kombinationsruta</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Länk kopierad till Urklipp"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopiera länk"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Öppna i webbläsaren"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Dela länk"</string>
     <string gender="unknown" name="header_description">Rubrik</string>
     <string gender="unknown" name="image_description">Bild</string>
     <string gender="unknown" name="imagebutton_description">Knapp, bild</string>

@@ -37,6 +37,10 @@
     <string msgid="59049573811482460" name="call_notification_screening_text">"Filtrage d\'un appel entrant"</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">En cours %1$s</string>
     <string gender="unknown" name="combobox_description">Liste déroulante</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Lien copié dans le presse-papiers"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Copier le lien"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Ouvrir dans un navigateur"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Partager le lien"</string>
     <string gender="unknown" name="header_description">Titre</string>
     <string gender="unknown" name="imagebutton_description">Bouton, image</string>
     <string gender="unknown" name="link_description">Lien</string>

@@ -35,6 +35,10 @@
     <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Ընթացիկ զանգ"</string>
     <string msgid="59049573811482460" name="call_notification_screening_text">"Մուտքային զանգի զտում"</string>
     <string gender="unknown" name="combobox_description">Կոմբո արկղ</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Հղումը պատճենվեց սեղմատախտակին"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Պատճենել հղումը"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Բացել դիտարկիչում"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Կիսվել հղումով"</string>
     <string gender="unknown" name="image_description">Նկար</string>
     <string gender="unknown" name="imagebutton_description">Կոճակ, նկար</string>
     <string gender="unknown" name="link_description">Հղում</string>

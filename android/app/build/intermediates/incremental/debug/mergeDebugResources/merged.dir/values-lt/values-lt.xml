@@ -38,6 +38,10 @@
     <string gender="unknown" name="catalyst_dev_menu_header">Reagavimo savasis kūrėjo meniu „(%1$s)“</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">Rodoma „%1$s“</string>
     <string gender="unknown" name="combobox_description">Sudėtinis laukelis</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Nuoroda nukopijuota į iškarpinę"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopijuoti nuorodą"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Atidaryti naršyklėje"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Bendrinti nuorodą"</string>
     <string gender="unknown" name="header_description">Antraštė</string>
     <string gender="unknown" name="image_description">Vaizdas</string>
     <string gender="unknown" name="imagebutton_description">Mygtukas, vaizdas</string>

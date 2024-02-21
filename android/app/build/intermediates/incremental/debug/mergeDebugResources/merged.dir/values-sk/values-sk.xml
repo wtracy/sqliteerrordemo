@@ -38,6 +38,10 @@
     <string gender="unknown" name="catalyst_dev_menu_header">Natívna vývojárska ponuka reakcie (%1$s)</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">Spustené: %1$s</string>
     <string gender="unknown" name="combobox_description">Kombinované pole</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Odkaz bol skopírovaný do schránky"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopírovať odkaz"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Otvoriť v prehliadači"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Zdieľať odkaz"</string>
     <string gender="unknown" name="header_description">Nadpis</string>
     <string gender="unknown" name="image_description">Obrázok</string>
     <string gender="unknown" name="imagebutton_description">Tlačidlo, obrázok</string>

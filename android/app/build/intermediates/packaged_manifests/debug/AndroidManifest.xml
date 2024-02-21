@@ -9,16 +9,17 @@
         android:targetSdkVersion="34" />
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <queries>
-
+        <package android:name="host.exp.exponent" />
         <!-- Query open documents -->
         <intent>
             <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
         </intent>
     </queries>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <!--
     This manifest file is used only by Gradle to configure debug-only capabilities
     for React Native Apps.
@@ -55,6 +56,43 @@
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="expo.modules.updates.AUTO_SETUP"
+            android:value="false" />
+
+        <activity
+            android:name="expo.modules.devlauncher.launcher.DevLauncherActivity"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.DevLauncher.LauncherActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="expo-dev-launcher" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="expo.modules.devlauncher.launcher.errors.DevLauncherErrorActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.DevLauncher.ErrorActivity" />
+        <activity
+            android:name="expo.modules.devmenu.DevMenuActivity"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.AppCompat.Transparent.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="expo-dev-menu" />
             </intent-filter>
         </activity>
 

@@ -38,6 +38,10 @@
     <string gender="unknown" name="catalyst_dev_menu_header">Menanggapi Menu Dev Asli (%1$s)</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">Menjalankan %1$s</string>
     <string gender="unknown" name="combobox_description">Kotak Kombo</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link disalin ke papan klip"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Salin link"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Buka di browser"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Bagikan link"</string>
     <string gender="unknown" name="header_description">Judul</string>
     <string gender="unknown" name="image_description">Gambar</string>
     <string gender="unknown" name="imagebutton_description">Tombol, Gambar</string>
