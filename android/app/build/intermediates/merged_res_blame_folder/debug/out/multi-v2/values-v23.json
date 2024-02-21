@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.sqliteerrordemo.app-mergeDebugResources-35:/values-v23/values-v23.xml",
+            "outputFile": "com.sqliteerrordemo.app-mergeDebugResources-29:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/williamtracy/.gradle/caches/transforms-3/d2a6672ab566aaab535bf1d0b9af7743/transformed/appcompat-1.6.1/res/values-v23/values-v23.xml",
+                    "source": "/Users/williamtracy/.gradle/caches/transforms-3/b3627ca143232ec2ceb6e319eb18971d/transformed/appcompat-1.6.1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -12,44 +12,6 @@
                         "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
                         "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
                         "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
-                    }
-                },
-                {
-                    "source": "/Users/williamtracy/.gradle/caches/transforms-3/d45a7fe575deb5abe793c14620b00f61/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "200"
-                    },
-                    "to": {
-                        "startLines": "50",
-                        "startColumns": "4",
-                        "startOffsets": "3232",
-                        "endLines": "52",
-                        "endColumns": "12",
-                        "endOffsets": "3377"
-                    }
-                },
-                {
-                    "source": "/Users/williamtracy/.gradle/caches/transforms-3/803668c02862e20292570c124b42db3d/transformed/material-1.2.1/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2,6",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,320",
-                        "endLines": "5,9",
-                        "endColumns": "10,10",
-                        "endOffsets": "315,588"
-                    },
-                    "to": {
-                        "startLines": "53,57",
-                        "startColumns": "4,4",
-                        "startOffsets": "3382,3647",
-                        "endLines": "56,60",
-                        "endColumns": "10,10",
-                        "endOffsets": "3642,3915"
                     }
                 }
             ]

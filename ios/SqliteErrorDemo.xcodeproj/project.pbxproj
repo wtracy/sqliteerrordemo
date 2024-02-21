@@ -46,6 +46,7 @@
 		5DCACB8F33CDC322A6C60F78 /* libPods-SqliteErrorDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SqliteErrorDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SqliteErrorDemo/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-SqliteErrorDemo-SqliteErrorDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SqliteErrorDemo-SqliteErrorDemoTests.release.xcconfig"; path = "Target Support Files/Pods-SqliteErrorDemo-SqliteErrorDemoTests/Pods-SqliteErrorDemo-SqliteErrorDemoTests.release.xcconfig"; sourceTree = "<group>"; };
+		B0C71CF12B86A3030008DC72 /* app.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = app.json; path = ../app.json; sourceTree = "<group>"; };
 		B0E882F42B84B32600DCC4DB /* App.tsx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.typescript; name = App.tsx; path = ../App.tsx; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F65C420711ACD8EB495C53C1 /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-SqliteErrorDemo-SqliteErrorDemoTests/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
@@ -121,6 +122,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				B0C71CF12B86A3030008DC72 /* app.json */,
 				B0E882F42B84B32600DCC4DB /* App.tsx */,
 				13B07FAE1A68108700A75B9A /* SqliteErrorDemo */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
@@ -658,7 +660,10 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
-				OTHER_LDFLAGS = "$(inherited)  ";
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					" ",
+				);
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
@@ -726,7 +731,10 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
-				OTHER_LDFLAGS = "$(inherited)  ";
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					" ",
+				);
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;

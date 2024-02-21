@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.sqliteerrordemo.app-mergeDebugResources-35:/values-v24/values-v24.xml",
+            "outputFile": "com.sqliteerrordemo.app-mergeDebugResources-29:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/williamtracy/.gradle/caches/transforms-3/d2a6672ab566aaab535bf1d0b9af7743/transformed/appcompat-1.6.1/res/values-v24/values-v24.xml",
+                    "source": "/Users/williamtracy/.gradle/caches/transforms-3/b3627ca143232ec2ceb6e319eb18971d/transformed/appcompat-1.6.1/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/williamtracy/.gradle/caches/transforms-3/6c03e0cc9c1b6d68964f1b1782bcc00f/transformed/media-1.0.0/res/values-v24/values-v24.xml",
+                    "source": "/Users/williamtracy/.gradle/caches/transforms-3/a1b1d133c255dd90652eddc62cc5894f/transformed/media-1.0.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

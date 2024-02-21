@@ -38,10 +38,6 @@
     <string gender="unknown" name="catalyst_dev_menu_header">रिएक्शन नेटिव डेवलपर मेनू (%1$s)</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">%1$s चला रहे हैं</string>
     <string gender="unknown" name="combobox_description">कॉम्बो बॉक्स</string>
-    <string msgid="3260749812566568062" name="copy_toast_msg">"लिंक क्लिपबोर्ड पर कॉपी किया गया"</string>
-    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"लिंक कॉपी करें"</string>
-    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"ब्राउज़र में खोलें"</string>
-    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"लिंक शेयर करें"</string>
     <string gender="unknown" name="header_description">शीर्षक</string>
     <string gender="unknown" name="image_description">फ़ोटो</string>
     <string gender="unknown" name="imagebutton_description">बटन, फ़ोटो</string>

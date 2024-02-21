@@ -38,10 +38,6 @@
     <string gender="unknown" name="catalyst_dev_menu_header">ரியாக்ட் நேட்டிவ் டேவ் மெனு (%1$s)</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">இயங்குகிறது %1$s</string>
     <string gender="unknown" name="combobox_description">காம்போ பெட்டி</string>
-    <string msgid="3260749812566568062" name="copy_toast_msg">"கிளிப்-போர்டுக்கு இணைப்பு நகலெடுக்கப்பட்டது"</string>
-    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"இணைப்பை நகலெடு"</string>
-    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"உலாவியில் திற"</string>
-    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"இணைப்பைப் பகிர்"</string>
     <string gender="unknown" name="header_description">தலைப்பு</string>
     <string gender="unknown" name="image_description">படம்</string>
     <string gender="unknown" name="imagebutton_description">பொத்தான், படம்</string>

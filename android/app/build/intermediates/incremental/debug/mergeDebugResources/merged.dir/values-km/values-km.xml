@@ -38,10 +38,6 @@
     <string gender="unknown" name="catalyst_dev_menu_header">ប្រតិកម្ម​ម៉ឺនុយ​​អភិវឌ្ឍដើម (%1$s)</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">ដំណើរការ %1$s</string>
     <string gender="unknown" name="combobox_description">ប្រអប់បញ្ចូលគ្នា</string>
-    <string msgid="3260749812566568062" name="copy_toast_msg">"បាន​ចម្លង​តំណ​ទៅឃ្លីបបត"</string>
-    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"ចម្លង​តំណ"</string>
-    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"បើក​នៅក្នុង​កម្មវិធី​រុករកតាម​អ៊ីនធឺណិត"</string>
-    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"តំណចែករំលែក"</string>
     <string gender="unknown" name="header_description">ចំណងជើង</string>
     <string gender="unknown" name="image_description">រូបភាព</string>
     <string gender="unknown" name="imagebutton_description">ប៊ូតុង, រូបភាព</string>

@@ -38,10 +38,6 @@
     <string gender="unknown" name="catalyst_dev_menu_header">Nabídka React Native Dev (%1$s)</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">Spuštěno: %1$s</string>
     <string gender="unknown" name="combobox_description">Kombinované pole</string>
-    <string msgid="3260749812566568062" name="copy_toast_msg">"Odkaz zkopírován do schránky"</string>
-    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopírovat odkaz"</string>
-    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Otevřít v prohlížeči"</string>
-    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Sdílet odkaz"</string>
     <string gender="unknown" name="header_description">Nadpis</string>
     <string gender="unknown" name="image_description">Obrázek</string>
     <string gender="unknown" name="imagebutton_description">Tlačítko, obrázek</string>

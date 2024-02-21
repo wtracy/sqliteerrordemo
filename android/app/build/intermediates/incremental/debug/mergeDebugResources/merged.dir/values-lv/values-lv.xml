@@ -38,10 +38,6 @@
     <string gender="unknown" name="catalyst_dev_menu_header">Reakciju vietējā izstrādātāju izvēlne (%1$s)</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">Darbojas %1$s</string>
     <string gender="unknown" name="combobox_description">Kombinētais lodziņš</string>
-    <string msgid="3260749812566568062" name="copy_toast_msg">"Saite ir kopēta starpliktuvē."</string>
-    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopēt saiti"</string>
-    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Atvērt pārlūkprogrammā"</string>
-    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Kopīgot saiti"</string>
     <string gender="unknown" name="header_description">Virsraksts</string>
     <string gender="unknown" name="image_description">Attēls</string>
     <string gender="unknown" name="imagebutton_description">Poga, attēls</string>

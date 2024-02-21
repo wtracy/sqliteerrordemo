@@ -45,6 +45,6 @@ with_node \
   --no-warnings \
   --eval "require(require.resolve('expo-modules-autolinking', { paths: [require.resolve('expo/package.json')] }))(process.argv.slice(1))" \
   generate-modules-provider  \
-  --target "/Users/williamtracy/SqliteErrorDemo/ios/Pods/Target Support Files/Pods-SqliteErrorDemo-SqliteErrorDemoTests/ExpoModulesProvider.swift" \
+  --target "/Users/williamtracy/sqliteerrordemo/ios/Pods/Target Support Files/Pods-SqliteErrorDemo-SqliteErrorDemoTests/ExpoModulesProvider.swift" \
   --platform "apple" \
   --packages "expo-constants" "expo-file-system" "expo-keep-awake" "expo-sqlite"

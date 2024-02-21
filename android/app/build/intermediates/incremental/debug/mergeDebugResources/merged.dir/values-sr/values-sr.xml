@@ -38,10 +38,6 @@
     <string gender="unknown" name="catalyst_dev_menu_header">React Native мени за програмере: (%1$s)</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">Покренуто: %1$s</string>
     <string gender="unknown" name="combobox_description">Комбиновано поље</string>
-    <string msgid="3260749812566568062" name="copy_toast_msg">"Линк је копиран у привремену меморију"</string>
-    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Копирај линк"</string>
-    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Отвори у прегледачу"</string>
-    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Дели линк"</string>
     <string gender="unknown" name="header_description">Заглавље</string>
     <string gender="unknown" name="image_description">Слика</string>
     <string gender="unknown" name="imagebutton_description">Дугме, слика</string>

@@ -37,10 +37,6 @@
     <string msgid="59049573811482460" name="call_notification_screening_text">"Inachuja simu unayopigiwa"</string>
     <string gender="unknown" name="catalyst_dev_menu_sub_header">Linaendeshwa %1$s</string>
     <string gender="unknown" name="combobox_description">Kisanduku cha Combo</string>
-    <string msgid="3260749812566568062" name="copy_toast_msg">"Imenakili kiungo kwenye ubao wa kunakili"</string>
-    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Nakili kiungo"</string>
-    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Fungua katika kivinjari"</string>
-    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Shiriki kiungo"</string>
     <string gender="unknown" name="header_description">Kichwa</string>
     <string gender="unknown" name="image_description">Picha</string>
     <string gender="unknown" name="imagebutton_description">Kitufe, Picha</string>
