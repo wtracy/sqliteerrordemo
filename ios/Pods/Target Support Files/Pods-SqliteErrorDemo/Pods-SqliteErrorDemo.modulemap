@@ -1,0 +1,6 @@
+module Pods_SqliteErrorDemo {
+  umbrella header "Pods-SqliteErrorDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
