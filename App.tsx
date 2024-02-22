@@ -11,9 +11,22 @@ import * as SQLite from 'expo-sqlite';
 function App(): React.JSX.Element {
   const [status, setStatus] = useState("Working...");
 
-  useEffect(()=> {
+  useEffect(() => {
+    /* sqlite-next implementation
+    async function run() {
+        try {
+            const db = await SQLite.openDatabaseAsync('database.db');
+
+            await db.execAsync('CREATE TABLE IF NOT EXISTS Foo (Bar NUMBER NOT NULL PRIMARY KEY);', []);
+            await db.runAsync('INSERT INTO Foo VALUES (?);', [1]);
+            await db.runAsync('INSERT INTO Foo VALUES (?);', [1]);
+            setStatus('Success!');
+        } catch (err) {
+            setStatus(String(err));
+        }
+    }
+    run();*/
     const db = SQLite.openDatabase('database.db');
-    
     db.transactionAsync(async tx => {
       try {
         await tx.executeSqlAsync('CREATE TABLE IF NOT EXISTS Foo (Bar NUMBER NOT NULL PRIMARY KEY);', []);
